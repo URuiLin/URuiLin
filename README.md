@@ -1,4 +1,11 @@
-### Hi there 👋
+### 🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱🌱
+- 🔭 I’m currently working on XI'AN  
+- 🌱 I’m currently learning stm32 an linux system  
+- 📫 How to reach me: 12923370402qq.com  
+- 😄 Pronouns: chinese  
+- ⚡ hobby : swimming and basketball  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=URuiLin&show_icons=true&theme=dark&count_private=true)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=URuiLin&theme=dark&layout=compact)
 
 <!--
 **URuiLin/URuiLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
